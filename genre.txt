@@ -1,0 +1,96 @@
+Action
+Action-Adventure
+Adventure
+Arena Shooter
+Art Game
+Artillery Game
+Auto Battler
+Battle Royale
+Board Game
+Card Game
+Casual Game
+Casual Puzzle Game
+Clicker Game
+Collectathon
+Dating Sim
+Educational Game
+Fighting Game
+First-Person Shooter
+Flight Sim
+Grand Strategy
+Hack and Slash
+Hidden Object
+Idle Game
+Indie Game
+Interactive Fiction
+Massively Multiplayer Online (MMO)
+Metroidvania
+Mobile Game
+Music Game
+Platformer
+Puzzle Game
+Real-Time Strategy (RTS)
+Rhythm Game
+Roguelike
+Role-Playing Game (RPG)
+Sandbox Game
+Science Fiction
+Serious Game
+Shoot 'em Up
+Shooter
+Side-Scrolling
+Simulation
+Simulation Racing
+Sports
+Stealth
+Survival
+Survival Horror
+Tactical Role-Playing Game (TRPG)
+Text-Based
+Tower Defense
+Turn-Based Strategy
+Visual Novel
+Walking Simulator
+4X
+4X Strategy
+Beat 'em Up
+Bullet Hell
+Card Battler
+City Builder
+Crafting Game
+Dark Fantasy
+Deck-Building Game
+Digital Board Game
+Dungeon Crawler
+Farming Sim
+Fish-Out-of-Water
+Historical Simulation
+Horror
+Idle RPG
+Interactive Movie
+JRPG
+Kinetic Novel
+Life Sim
+Management Sim
+Massively Multiplayer Online Role-Playing Game (MMORPG)
+Match-3
+MOBA
+Music Rhythm Game
+Mystery
+Open World
+Party Game
+Pinball
+Point-and-Click
+Puzzle-Platformer
+Racing
+Real-Time Tactics
+Roguelite
+Simulation RPG
+Social Sim
+Tile-Matching Puzzle
+War Game
+Western RPG
+Wargame
+Tactical RPG
+Text-Based Adventure
+Turn-Based Tactics

@@ -1,0 +1,161 @@
+Player movement
+Player jumping
+Player attacking
+Player dodging
+Player blocking
+Player sprinting
+Player stealth
+Player climbing
+Player swimming
+Player flying
+Player crafting
+Player cooking
+Player fishing
+Player farming
+Player mining
+Player building
+Player trading
+Player questing
+Player leveling up
+Player skill trees
+Player equipment
+Player inventory
+Player health system
+Player mana system
+Player stamina system
+Player hunger system
+Player thirst system
+Player temperature system
+Player sanity system
+Player experience system
+Player reputation system
+Player faction system
+Player relationship system
+Player morality system
+Player alignment system
+Melee combat
+Ranged combat
+Magic combat
+Combo system
+Parry system
+Critical hits
+Status effects
+Environmental hazards
+Cover system
+Flanking
+Area of effect attacks
+Chain attacks
+Dual wielding
+Weapon switching
+Weapon degradation
+Armor degradation
+Weapon upgrades
+Armor upgrades
+Spellcasting
+Spellbooks
+Mana cost
+Cooldowns
+Targeting system
+Lock-on system
+Open world exploration
+Linear level design
+Procedural generation
+Checkpoint system
+Save system
+Fast travel
+Difficulty settings
+New Game Plus
+Level scaling
+Enemy scaling
+Boss battles
+Mini-bosses
+Puzzles
+Riddles
+Traps
+Secrets
+Hidden areas
+Collectibles
+Achievements
+Trophies
+Cooperative multiplayer
+Competitive multiplayer
+Player versus environment
+Player versus player
+Team-based gameplay
+Clan system
+Guild system
+Voice chat
+Text chat
+Emotes
+Party system
+Matchmaking
+Ranked mode
+Casual mode
+Friendly fire
+Teaming
+Griefing prevention
+Trading system
+Auction house
+Crafting guilds
+Raids
+Dungeons
+PvP arenas
+Battlegrounds
+Story-driven narrative
+Branching narrative
+Choice-based gameplay
+Dialogue system
+Character customization
+Companion system
+Romance options
+Faction quests
+Side quests
+Main quest
+World events
+Dynamic world
+Day and night cycle
+Weather system
+Seasons
+Lore
+Backstory
+World map
+Fast travel points
+Inventory management
+Skill tree
+Map
+Quest log
+Mini-map
+HUD
+Menu system
+Options menu
+Settings menu
+Controller support
+Keyboard and mouse support
+Touchscreen support
+Accessibility options
+Tutorial system
+Hints and tips
+Load screens
+Loading times
+Performance optimization
+Time-based mechanics
+Resource management
+Base building
+Vehicle mechanics
+Mount system
+Pet system
+Fishing minigame
+Cooking minigame
+Crafting minigame
+Card game minigame
+Dice game minigame
+Board game minigame
+Rhythm game minigame
+Puzzle game minigame
+Stealth mechanics
+Hacking mechanics
+Hacking minigame
+Hacking mini-game
+Hacking mini-game
+Hacking mini-game
+Hacking mini-game

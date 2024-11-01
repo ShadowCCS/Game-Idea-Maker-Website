@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Game Idea Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container"> <!-- New container for vertical centering -->
+        <div id="generator">
+            <h1>Random Game Idea Generator</h1>
+            <div class="idea" id="idea">
+                Click "Generate" to get a random game idea!
+            </div>
+            <button onclick="generateIdea()">Generate</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; Shadow 2024</p>
+    </footer>
+
+    <script>
+        async function fetchTextFile(file) {
+            const response = await fetch(file);
+            const text = await response.text();
+            return text.split("\n").filter(line => line.trim() !== "");
+        }
+
+        async function generateIdea() {
+            try {
+                const genres = await fetchTextFile("genre.txt");
+                const settings = await fetchTextFile("setting.txt");
+                const mechanics = await fetchTextFile("mechanic.txt");
+
+                const genre = genres[Math.floor(Math.random() * genres.length)];
+                const setting = settings[Math.floor(Math.random() * settings.length)];
+                const mechanic = mechanics[Math.floor(Math.random() * mechanics.length)];
+
+                const ideaText = `Genre: ${genre}\nSetting: ${setting}\nMechanic: ${mechanic}`;
+                const ideaElement = document.getElementById("idea");
+                
+                ideaElement.classList.remove("fade-in");
+                ideaElement.classList.add("fade-out");
+
+                setTimeout(() => {
+                    ideaElement.innerText = ideaText;
+                    ideaElement.classList.remove("fade-out");
+                    ideaElement.classList.add("fade-in");
+                }, 300);
+            } catch (error) {
+                document.getElementById("idea").innerText = "Error loading ideas. Please try again.";
+            }
+        }
+    </script>
+</body>
+</html>
